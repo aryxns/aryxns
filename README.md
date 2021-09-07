@@ -19,3 +19,10 @@ Here are some ideas to get you started:
 ### Computer Vision Team at [Spry Health](https://example.com)
 ### Founder [Anteam](anteam.ml)
 ### Fellow at [Ondeck](beondeck.com)
+### Fellow at [TKS](tks.world)
+### Advisory Board at [AHC](adolescenthealthchampions.org) (501(c)3 non-profit)
+
+
+## Past😄
+### Co-founder, Poddocs.
+### Eentrepreneur in Residence, [SSI](https://riidl.org/startupschoolindia)
