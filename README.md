@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Detailed bio at [aryxn.com](aryxn.com) and [@aryxnsharma](twitter.com/aryxnsharma)
 
 ### Current⚡
 * Computer Vision Team at [Spry Health](https://example.com), Backed by Together.fund and other angels 🚀
@@ -25,6 +26,15 @@ Here are some ideas to get you started:
 
 ---------------------------------
 
-### Past😄
+### Past⏰
 * Co-founder, Poddocs. 📒
 * Fellow, [SSI](https://riidl.org/startupschoolindia) 🏗
+
+
+----------------------------------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryxns&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+----
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aryxns&repo=auto_nlp)](https://github.com/anuraghazra/github-readme-stats)
+----
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=aryxnsharma)](https://github.com/gazf/github-readme-twitter)
+
