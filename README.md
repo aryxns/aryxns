@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Detailed bio at [aryxn.com](aryxn.com) and [@aryxnsharma](twitter.com/aryxnsharma)
+Detailed bio at [aryxn.com](https://aryxn.com) and [@aryxnsharma](https://twitter.com/aryxnsharma)
 
 ### Current⚡
-* Computer Vision Team at [Spry Health](https://example.com), Backed by Together.fund and other angels 🚀
-* Founder [Anteam](anteam.ml) 🤖 
-* Fellow at [Ondeck](beondeck.com) 🙌
-* Activator at [TKS](tks.world)🙌
-* Advisory Board at [AHC](adolescenthealthchampions.org) 501(c)3 non-profit
+* Computer Vision Team at [Spry Health](https://spryhealth.care), Backed by Together.fund and other angels 🚀
+* Founder [Anteam](https://anteam.ml) 🤖 
+* Fellow at [Ondeck](https://beondeck.com) 🙌
+* Activator at [TKS](https://tks.world)🙌
+* Advisory Board at [AHC](https://adolescenthealthchampions.org) 501(c)3 non-profit
 
 
 ---------------------------------
