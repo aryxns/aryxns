@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Current⚡
+### Computer Vision Team at (Spry)[spryhealth.care]
+### Founder (Anteam)[anteam.ml]
+### Fellow at (Ondeck)[beondeck.com]
