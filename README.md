@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Current⚡
-### Computer Vision Team at [Spry Health](https://example.com)
-### Founder [Anteam](anteam.ml)
-### Fellow at [Ondeck](beondeck.com)
-### Fellow at [TKS](tks.world)
-### Advisory Board at [AHC](adolescenthealthchampions.org) 501(c)3 non-profit
+### Current⚡
+Computer Vision Team at [Spry Health](https://example.com), Backed by Together.fund and other angels 🚀
+Founder [Anteam](anteam.ml) 🤖 
+Fellow at [Ondeck](beondeck.com) 🙌
+Activator at [TKS](tks.world)🙌
+Advisory Board at [AHC](adolescenthealthchampions.org) 501(c)3 non-profit
 
 
-## Past😄
-### Co-founder, Poddocs.
-### Eentrepreneur in Residence, [SSI](https://riidl.org/startupschoolindia)
+---------------------------------
+
+### Past😄
+Co-founder, Poddocs. 📒
+Fellow, [SSI](https://riidl.org/startupschoolindia) 🏗
