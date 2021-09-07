@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Founder [Anteam](anteam.ml)
 ### Fellow at [Ondeck](beondeck.com)
 ### Fellow at [TKS](tks.world)
-### Advisory Board at [AHC](adolescenthealthchampions.org) (501(c)3 non-profit)
+### Advisory Board at [AHC](adolescenthealthchampions.org) 501(c)3 non-profit
 
 
 ## Past😄
