@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## Current⚡
-### Computer Vision Team at (Spry)[spryhealth.care]
-### Founder (Anteam)[anteam.ml]
-### Fellow at (Ondeck)[beondeck.com]
+### Computer Vision Team at [Spry Health](https://example.com)
+### Founder [Anteam](anteam.ml)
+### Fellow at [Ondeck](beondeck.com)
