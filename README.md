@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 Detailed bio at [aryxn.com](https://aryxn.com) and [@aryxnsharma](https://twitter.com/aryxnsharma)
 
 ### Current⚡
+* Hacker at [Layer3](https://layer3.xyz)
 * Computer Vision Team at [Spry Health](https://spryhealth.care), Backed by Together.fund and other angels 🚀
 * Founder [Anteam](https://anteam.ml) 🤖 
 * Fellow at [Ondeck](https://beondeck.com) 🙌
