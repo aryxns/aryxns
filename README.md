@@ -18,8 +18,6 @@ Detailed bio at [aryxn.com](https://aryxn.com) and [@aryxnsharma](https://twitte
 
 ### Current⚡
 * Hacker at [Layer3](https://layer3.xyz)
-* Computer Vision Team at [Spry Health](https://spryhealth.care), Backed by Together.fund and other angels 🚀
-* Founder [Anteam](https://anteam.ml) 🤖 
 * Fellow at [Ondeck](https://beondeck.com) 🙌
 * Activator at [TKS](https://tks.world)🙌
 * Advisory Board at [AHC](https://adolescenthealthchampions.org) 501(c)3 non-profit
@@ -28,6 +26,8 @@ Detailed bio at [aryxn.com](https://aryxn.com) and [@aryxnsharma](https://twitte
 ---------------------------------
 
 ### Past⏰
+* Computer Vision Team at [Spry Health](https://spryhealth.care), Backed by Together.fund and other angels 🚀
+* Founder [Anteam](https://anteam.ml) 🤖 
 * Co-founder, Poddocs. 📒
 * Fellow, [SSI](https://riidl.org/startupschoolindia) 🏗
 
