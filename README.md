@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Detailed bio at [aryxn.com](https://aryxn.com) and [@aryxnsharma](https://twitter.com/aryxnsharma)
+Detailed bio at [@aryxnsharma](https://twitter.com/aryxnsharma)
 
 ### Current⚡
 * Hacker at [Layer3](https://layer3.xyz)
