@@ -16,12 +16,6 @@ Here are some ideas to get you started:
 -->
 Detailed bio at [@aryxnsharma](https://twitter.com/aryxnsharma)
 
-### Current⚡
-* Hacker at [Layer3](https://layer3.xyz)
-* Fellow at [Ondeck](https://beondeck.com) 🙌
-* Activator at [TKS](https://tks.world)🙌
-* Advisory Board at [AHC](https://adolescenthealthchampions.org) 501(c)3 non-profit
-
 
 ---------------------------------
 
